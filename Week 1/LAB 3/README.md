@@ -18,3 +18,8 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-di
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+
+I launched Azure Cloud Shell and I create a VM
+I created and attach disks and I then prepare data disks
+Finally, I took a disk snapshot
