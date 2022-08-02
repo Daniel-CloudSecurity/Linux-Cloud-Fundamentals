@@ -18,3 +18,8 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+
+I created a resource group, then the VM and I connected to the VM
+I ran the propmts to get the VM images, VM sizes and VM power states
+I then ran command prompts to run the management tasks such as shutting and starting the virtual machine and getting the ip address of the virtual machine
