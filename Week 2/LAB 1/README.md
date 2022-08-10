@@ -17,3 +17,11 @@ https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/
 Quickstart for AWS CloudShell
 
 https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+
+I launched AWS Cloud Shell
+I created virtual machine
+I opened port 80 for web traffic
+I connected to virtual machine
+I installed web server
+I viewed the web server in action
