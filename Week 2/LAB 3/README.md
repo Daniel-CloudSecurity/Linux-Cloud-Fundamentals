@@ -24,3 +24,9 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-
 Create bootstrap actions to install additional software
 
 https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-bootstrap.html
+
+I created a Linux VM
+Using Ubuntu, I installed the Apache Web Server
+I started the service status via command line using sudo systemctl start apache2
+I investigated the service status via command line using sudo systemctl status apache2
+I then stopped the service by using sudo systemctl stop apache2 via the command line
