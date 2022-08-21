@@ -16,3 +16,8 @@ Grading tip:  Screenshot each step and upload with your step by step answer
 Guide:
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
 
+
+I created a VPC with a CIDR block 10.0.0.0/16
+I then created two subnets: private one of 10.0.1.0/24 and public one of 10.0.0.0/24
+Finally, I created and attached an internet gateway to the VPC
+
