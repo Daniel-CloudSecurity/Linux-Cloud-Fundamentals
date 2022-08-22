@@ -21,3 +21,7 @@ Grading tip:  Screenshot major cli output and upload with your step by step answ
 Guide:
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-instances.html
+
+
+
+I launced an instance with AWS CLI and I used the parameters set forth in the assignment.
