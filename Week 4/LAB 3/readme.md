@@ -11,3 +11,10 @@ Tasks:
 Guide: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
 
 Grading tip:  Screenshot major script outputs and upload with your step by step answer
+
+
+
+I prepared the LAMP server
+I tested my LAMP server
+I secured my database server
+I installed phpMyAdmin
